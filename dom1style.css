@@ -1,0 +1,31 @@
+
+.highlight
+{
+    background-color: yellow;
+}
+.underline
+{
+    text-decoration: underline;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.block
+{
+    display: block;
+
+}
+
+.none
+{
+    display: none;
+}
+
+.noevents
+{
+    pointer-events: none;
+    background-color: grey;
+}
